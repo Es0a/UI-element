@@ -1,0 +1,5 @@
+#!/bin/sh
+tcpath=/home/[path to directory with existing compiler]/bin
+toolchain=/home/[path to directory with existing compiler]/bin/arm-none-eabi-
+toolchain_version=[e.g., 9.2-2019.12]
+toolchain_latest_version=[just put the same thing here as toolchain_version]
